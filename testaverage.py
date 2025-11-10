@@ -18,5 +18,5 @@ best_two_total = total - lowest
 average = best_two_total / 2
 
 print("Average of best two tests =", average)
-//result:It takes three test marks, drops the lowest one, and averages the remaining two.
-Then it prints: `Average of best two tests = <average>`.
+//result:program to find the best of two averages out of three marks is successfullly completed and executed.
+
